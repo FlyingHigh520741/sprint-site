@@ -5,6 +5,7 @@ import Logo from '../imagens/logo.png';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
+
 const LogoImage = styled.img`
   width: 200px;
   height: 100px;
